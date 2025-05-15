@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Reposcore 프로젝트",
+    "description": "GitHub 활동 기반 자동 점수 계산기 개발",
+    "upcoming": false
+  },
+  {
+    "title": "AI 기반 자동 채점기 개발",
+    "description": "자연어로 된 설명을 바탕으로 코드의 정확성 평가",
+    "upcoming": true
+  }
+]
